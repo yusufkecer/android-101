@@ -54,5 +54,5 @@ class MainActivity : AppCompatActivity() {
 }
 
 fun newFunction(arg: String) {
-    println("New Function")
+    println("New Function $arg")
 }
